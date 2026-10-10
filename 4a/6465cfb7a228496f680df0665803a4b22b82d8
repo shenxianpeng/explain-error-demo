@@ -1,0 +1,57 @@
+.gitignore
+  s_e8b639792250d5::t_1123ddd01c9eae 1-4
+Jenkinsfile
+  s_e8b639792250d5::t_2ff222f47fc7af 1-21
+README.md
+  s_e8b639792250d5::t_1457bf64bb8686 1-14
+examples/orders-image/Dockerfile
+  s_e8b639792250d5::t_9ab92ddd271d58 1-5
+examples/payments-api/pom.xml
+  s_e8b639792250d5::t_73636cf9a0a132 1-35
+examples/payments-api/src/main/java/dev/acme/payments/CardValidator.java
+  s_e8b639792250d5::t_abdb227faa5c2f 1-28
+examples/payments-api/src/main/java/dev/acme/payments/CurrencyConverter.java
+  s_e8b639792250d5::t_2a54bd5dd8a3f4 1-23
+examples/payments-api/src/main/java/dev/acme/payments/RefundService.java
+  s_e8b639792250d5::t_a40d956bc53d27 1-21
+examples/payments-api/src/test/java/dev/acme/payments/CardValidatorTest.java
+  s_e8b639792250d5::t_6d4efba8e1d561 1-24
+examples/payments-api/src/test/java/dev/acme/payments/CurrencyConverterTest.java
+  s_e8b639792250d5::t_eba586572da369 1-27
+examples/payments-api/src/test/java/dev/acme/payments/RefundServiceTest.java
+  s_e8b639792250d5::t_9c211ed73466fc 1-28
+examples/payments-api/src/test/java/dev/acme/payments/TestRates.java
+  s_e8b639792250d5::t_c6fe0093b8fd64 1-16
+examples/storefront-web/package-lock.json
+  s_e8b639792250d5::t_9e2bb7041fcf19 1-21
+examples/storefront-web/package.json
+  s_e8b639792250d5::t_1e5af5bd7713fa 1-13
+examples/storefront-web/src/cart.js
+  s_e8b639792250d5::t_ad5824cf5d1542 1-8
+examples/storefront-web/test/cart.test.js
+  s_e8b639792250d5::t_ab6bcc568c591b 1-9
+inventory/__init__.py
+  s_e8b639792250d5::t_dae83c5bf4399f 1
+inventory/stock.py
+  s_e8b639792250d5::t_af8acddb2bf60c 1-30
+requirements.txt
+  s_e8b639792250d5::t_7972fed2af29cf 1-3
+tests/test_stock.py
+  s_e8b639792250d5::t_55edfb0a4d5b92 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a6465cfb7a228496f680df0665803a4b22b82d8",
+  "prompts": {},
+  "sessions": {
+    "s_e8b639792250d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3fb4cb11-914b-4982-bae3-afb99eaf43ab",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
