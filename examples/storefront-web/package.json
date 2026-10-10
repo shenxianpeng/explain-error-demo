@@ -1,0 +1,13 @@
+{
+  "name": "storefront-web",
+  "version": "4.7.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "currency.js": "2.0.4",
+    "dayjs": "1.11.13"
+  }
+}
